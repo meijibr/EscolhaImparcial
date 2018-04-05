@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">RandomChoice</string>
+    <string name="inicial">Click on the button below to make a choice!</string>
+    <string-array name="criteria">
+        <item>"A pessoa mais alta - en"</item>
+        <item>"A pessoa mais baixa - en"</item>
+        <item>"A pessoa mais gorda - en"</item>
+        <item>"A pessoa mais magra - en"</item>
+        <item>"A pessoa mais velha - en"</item>
+        <item>"A pessoa mais nova - en"</item>
+        <item>"A pessoa com os dentes mais afiados - en"</item>
+        <item>"A pessoa com o cabelo mais comprida - en"</item>
+        <item>"A pessoa careca - en"</item>
+        <item>"A pessoa com as unhas mais compridas - en"</item>
+        <item>"Quem está de camisa/camiseta/blusa vermelha - en"</item>
+        <item>"Quem está de camisa/camiseta/blusa preta - en"</item>
+        <item>"Quem está de camisa/camiseta/blusa verde - en"</item>
+        <item>"Quem está de camisa/camiseta/blusa azul - en"</item>
+        <item>"Quem está de camisa/camiseta/blusa amarela - en"</item>
+        <item>"Quem tem mais dinheiro na carteira - en"</item>
+        <item>"Quem tem menos dinheiro na carteira - en"</item>
+        <item>"O(A) dono(a) da casa - en"</item>
+        <item>"Quem usa óculos com maior grau - en"</item>
+        <item>"Quem mais reprovou na escola/faculdade (finais e conselho são desempates) - en"</item>
+        <item>"Quem mais recentemente andou de trem - en"</item>
+        <item>"Quem mais recentemente andou de avião - en"</item>
+        <item>"Quem mais recentemente andou de barco - en"</item>
+        <item>"Quem é casado a mais tempo - en"</item>
+        <item>"Quem é casado a menos tempo - en"</item>
+        <item>"Quem está encalhado a mais tempo - en"</item>
+        <item>"Quem perdeu a virgindade mais velho - en"</item>
+        <item>"Quem perdeu a virgindade mais novo - en"</item>
+        <item>"Quem fala mais idiomas - en"</item>
+        <item>"Quem tem o maior celular - en"</item>
+        <item>"Quem tem o menor celular - en"</item>
+        <item>"Quem tem o celular mais velho - en"</item>
+        <item>"Quem baixou esse app - en"</item>
+        <item>"Quem mais recentemente encheu a cara - en"</item>
+        <item>"Quem mais recentemente foi à praia - en"</item>
+        <item>"Quem mais recentemente se submeteu a uma cirurgia - en"</item>
+        <item>"Quem trabalha a mais tempo no mesmo lugar - en"</item>
+        <item>"Quem faz aniversário no dia 1 - en"</item>
+        <item>"Quem faz aniversário no dia 2 - en"</item>
+        <item>"Quem faz aniversário no dia 3 - en"</item>
+        <item>"Quem faz aniversário no dia 4 - en"</item>
+        <item>"Quem faz aniversário no dia 5 - en"</item>
+        <item>"Quem faz aniversário no dia 6 - en"</item>
+        <item>"Quem faz aniversário no dia 7 - en"</item>
+        <item>"Quem faz aniversário no dia 8 - en"</item>
+        <item>"Quem faz aniversário no dia 9 - en"</item>
+        <item>"Quem faz aniversário no dia 10 - en"</item>
+        <item>"Quem faz aniversário no dia 11 - en"</item>
+        <item>"Quem faz aniversário no dia 12 - en"</item>
+        <item>"Quem faz aniversário no dia 13 - en"</item>
+        <item>"Quem faz aniversário no dia 14 - en"</item>
+        <item>"Quem faz aniversário no dia 15 - en"</item>
+        <item>"Quem faz aniversário no dia 16 - en"</item>
+        <item>"Quem faz aniversário no dia 17 - en"</item>
+        <item>"Quem faz aniversário no dia 18 - en"</item>
+        <item>"Quem faz aniversário no dia 19 - en"</item>
+        <item>"Quem faz aniversário no dia 20 - en"</item>
+        <item>"Quem faz aniversário no dia 21 - en"</item>
+        <item>"Quem faz aniversário no dia 22 - en"</item>
+        <item>"Quem faz aniversário no dia 23 - en"</item>
+        <item>"Quem faz aniversário no dia 24 - en"</item>
+        <item>"Quem faz aniversário no dia 25 - en"</item>
+        <item>"Quem faz aniversário no dia 26 - en"</item>
+        <item>"Quem faz aniversário no dia 27 - en"</item>
+        <item>"Quem faz aniversário no dia 28 - en"</item>
+        <item>"Quem faz aniversário no dia 29 - en"</item>
+        <item>"Quem faz aniversário no dia 30 - en"</item>
+        <item>"Quem faz aniversário no dia 31 - en"</item>
+        <item>"Quem faz aniversário em Janeiro - en"</item>
+        <item>"Quem faz aniversário em Fevereiro - en"</item>
+        <item>"Quem faz aniversário em Março - en"</item>
+        <item>"Quem faz aniversário em Abril - en"</item>
+        <item>"Quem faz aniversário em Maio - en"</item>
+        <item>"Quem faz aniversário em Junho - en"</item>
+        <item>"Quem faz aniversário em Julho - en"</item>
+        <item>"Quem faz aniversário em Agosto - en"</item>
+        <item>"Quem faz aniversário em Setembro - en"</item>
+        <item>"Quem faz aniversário em Outubro - en"</item>
+        <item>"Quem faz aniversário em Novembro - en"</item>
+        <item>"Quem faz aniversário em Dezembro - en"</item>
+        <item>"Quem tem a maior barba - en"</item>
+        <item>"Quem tem o maior pé - en"</item>
+        <item>"Quem tem o menor pé - en"</item>
+        <item>"Número do telefone terminado em 0 - en"</item>
+        <item>"Número do telefone terminado em 1 - en"</item>
+        <item>"Número do telefone terminado em 2 - en"</item>
+        <item>"Número do telefone terminado em 3 - en"</item>
+        <item>"Número do telefone terminado em 4 - en"</item>
+        <item>"Número do telefone terminado em 5 - en"</item>
+        <item>"Número do telefone terminado em 6 - en"</item>
+        <item>"Número do telefone terminado em 7 - en"</item>
+        <item>"Número do telefone terminado em 8 - en"</item>
+        <item>"Número do telefone terminado em 9 - en"</item>
+    </string-array>
+</resources>

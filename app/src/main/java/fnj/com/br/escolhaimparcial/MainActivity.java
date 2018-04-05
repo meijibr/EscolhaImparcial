@@ -1,5 +1,6 @@
 package fnj.com.br.escolhaimparcial;
 
+import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -21,16 +22,27 @@ public class MainActivity extends AppCompatActivity {
 
         criterios = new Criterios();
 
+        Resources res = getResources();
+        String[] criteriosString = res.getStringArray(R.array.criteria);
+/*        for(int i = 0; i < 93; i++) {
+            criterios.addCriterio(criteriosString[i]);
+        }*/
+        for(String s: criteriosString) {
+            criterios.addCriterio(s);
+        }
+
 
         criterioTextView = (TextView) findViewById(R.id.criterioTextView);
         rerollButton = (Button) findViewById(R.id.rerollButton);
 
-        criterioTextView.setText(criterios.getCriterio());
+        rerollButton.setText("Roll");
+        //criterioTextView.setText(criterios.getCriterio());
 
         rerollButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 criterioTextView.setText(criterios.getCriterio());
+                rerollButton.setText("Reroll");
             }
         });
     }
