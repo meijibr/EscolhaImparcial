@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/help"
+        android:enabled="true"
+        android:title="Ajuda"
+        android:visible="true" />
+    <item
+        android:id="@+id/family"
+        android:checkable="true"
+        android:enabled="true"
+        android:title="Family"
+        android:visible="true" />
+    <group
+        android:enabled="true"
+        android:menuCategory="secondary"
+        android:visible="true">
+        <item
+            android:id="@+id/us"
+            android:title="US" />
+        <item
+            android:id="@+id/ptbr"
+            android:title="BR" />
+    </group>
+</menu>

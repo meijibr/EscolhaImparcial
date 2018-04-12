@@ -4,24 +4,35 @@ import android.content.res.Resources;
 import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.wajahatkarim3.easyflipview.EasyFlipView;
 
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView criterioTextView;
-    Button rerollButton;
+    TextView criterioButtonTextView;
     ImageButton rerollButtonImg;
     Criterios criterios;
+
+
+    private EasyFlipView flipView;
 
     private static final String TAG = "MainActivity";
 
     private AdView mAdView;
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main_menu, menu);//Menu Resource, Menu
+        return true;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,28 +54,16 @@ public class MainActivity extends AppCompatActivity {
             criterios.addCriterio(s);
         }
 
+        criterioButtonTextView = (TextView) findViewById(R.id.criterioButtonTextView);
 
-        criterioTextView = (TextView) findViewById(R.id.criterioTextView);
-        rerollButton = (Button) findViewById(R.id.rerollButton);
-
-        rerollButton.setText("Roll");
-        //criterioTextView.setText(criterios.getCriterio());
-
-        rerollButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                criterioTextView.setText(criterios.getCriterio());
-                rerollButton.setText("Reroll");
-            }
-        });
-
+        flipView = (EasyFlipView) findViewById(R.id.easyFlipView);
         rerollButtonImg = (ImageButton) findViewById(R.id.rerollButtonImg);
 
         rerollButtonImg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                criterioTextView.setText(criterios.getCriterio());
-                rerollButton.setText("Reroll");
+                criterioButtonTextView.setText(criterios.getCriterio());
+                flipView.flipTheView();
             }
         });
     }
