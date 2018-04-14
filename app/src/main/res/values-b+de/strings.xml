@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">RandomChoice</string>
+    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
+    <string name="language">Idioma</string>
     <string name="inicial">Click on the button below to make a choice!</string>
     <string-array name="not_family">
         <item>"Quem perdeu a virgindade mais velho - en"</item>

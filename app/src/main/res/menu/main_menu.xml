@@ -14,15 +14,32 @@
         android:enabled="true"
         android:title="Family"
         android:visible="true" />
-    <group
-        android:enabled="true"
-        android:menuCategory="secondary"
-        android:visible="true">
-        <item
-            android:id="@+id/us"
-            android:title="US" />
-        <item
-            android:id="@+id/ptbr"
-            android:title="BR" />
-    </group>
+    <item android:title="@string/language">
+        <menu>
+            <group
+                android:id="@+id/language"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/PT"
+                    android:title="PT"/>
+                <item
+                    android:id="@+id/FR"
+                    android:title="FR"/>
+                <item
+                    android:id="@+id/EN"
+                    android:title="EN"/>
+                <item
+                    android:id="@+id/DE"
+                    android:title="De"/>
+                <item
+                    android:id="@+id/ES"
+                    android:title="ES"/>
+            </group>
+"
+
+
+        </menu>
+
+    </item>
+
 </menu>

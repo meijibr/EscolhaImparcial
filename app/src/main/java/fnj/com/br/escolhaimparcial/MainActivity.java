@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.wajahatkarim3.easyflipview.EasyFlipView;
@@ -92,7 +94,8 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     rerollButtonImg.setBackground(getResources().getDrawable(R.drawable.verso_azul, this.getTheme()));
                 }
-
+            case R.id.help:
+                Toast.makeText(getApplicationContext(), getResources().getText(R.string.help),Toast.LENGTH_LONG).show();
 
                 break;
             default:

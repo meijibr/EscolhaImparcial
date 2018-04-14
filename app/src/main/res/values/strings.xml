@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Escolha Imparcial</string>
+    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
+    <string name="language">Idioma</string>
     <string name="inicial">Clique no botão abaixo para fazer uma escolha!</string>
     <string-array name="not_family">
         <item>"Quem perdeu a virgindade mais velho"</item>
