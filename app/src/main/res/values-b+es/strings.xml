@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">RandomChoice</string>
     <string name="inicial">Click on the button below to make a choice!</string>
+    <string-array name="not_family">
+        <item>"Quem perdeu a virgindade mais velho - en"</item>
+        <item>"Quem perdeu a virgindade mais novo - en"</item>
+        <item>"Quem mais recentemente encheu a cara - en"</item>
+    </string-array>
     <string-array name="criteria">
         <item>"A pessoa mais alta - en"</item>
         <item>"A pessoa mais baixa - en"</item>
@@ -28,14 +33,11 @@
         <item>"Quem é casado a mais tempo - en"</item>
         <item>"Quem é casado a menos tempo - en"</item>
         <item>"Quem está encalhado a mais tempo - en"</item>
-        <item>"Quem perdeu a virgindade mais velho - en"</item>
-        <item>"Quem perdeu a virgindade mais novo - en"</item>
         <item>"Quem fala mais idiomas - en"</item>
         <item>"Quem tem o maior celular - en"</item>
         <item>"Quem tem o menor celular - en"</item>
         <item>"Quem tem o celular mais velho - en"</item>
         <item>"Quem baixou esse app - en"</item>
-        <item>"Quem mais recentemente encheu a cara - en"</item>
         <item>"Quem mais recentemente foi à praia - en"</item>
         <item>"Quem mais recentemente se submeteu a uma cirurgia - en"</item>
         <item>"Quem trabalha a mais tempo no mesmo lugar - en"</item>

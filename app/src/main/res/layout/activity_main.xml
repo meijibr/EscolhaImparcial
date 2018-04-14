@@ -42,9 +42,9 @@
                 android:text="@string/inicial"
                 android:textAlignment="center"
                 android:gravity="center"
-                android:textColor="#FFFFFF"
+                android:textColor="#000000"
                 android:textSize="24sp"
-                android:background="@drawable/ic_launcher_background"/>
+                android:background="@drawable/frente"/>
         </LinearLayout>
 
         <LinearLayout
@@ -55,7 +55,7 @@
                 android:id="@+id/rerollButtonImg"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                ads:srcCompat="@drawable/roulette" />
+                ads:srcCompat="@drawable/verso_vermelho" />
         </LinearLayout>
 
     </com.wajahatkarim3.easyflipview.EasyFlipView>

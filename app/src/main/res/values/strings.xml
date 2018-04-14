@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">EscolhaImparcial</string>
+    <string name="app_name">Escolha Imparcial</string>
     <string name="inicial">Clique no botão abaixo para fazer uma escolha!</string>
+    <string-array name="not_family">
+        <item>"Quem perdeu a virgindade mais velho"</item>
+        <item>"Quem perdeu a virgindade mais novo"</item>
+        <item>"Quem mais recentemente encheu a cara"</item>
+    </string-array>
     <string-array name="criteria">
         <item>"A pessoa mais alta"</item>
         <item>"A pessoa mais baixa"</item>
@@ -28,14 +33,11 @@
         <item>"Quem é casado a mais tempo"</item>
         <item>"Quem é casado a menos tempo"</item>
         <item>"Quem está encalhado a mais tempo"</item>
-        <item>"Quem perdeu a virgindade mais velho"</item>
-        <item>"Quem perdeu a virgindade mais novo"</item>
         <item>"Quem fala mais idiomas"</item>
         <item>"Quem tem o maior celular"</item>
         <item>"Quem tem o menor celular"</item>
         <item>"Quem tem o celular mais velho"</item>
         <item>"Quem baixou esse app"</item>
-        <item>"Quem mais recentemente encheu a cara"</item>
         <item>"Quem mais recentemente foi à praia"</item>
         <item>"Quem mais recentemente se submeteu a uma cirurgia"</item>
         <item>"Quem trabalha a mais tempo no mesmo lugar"</item>

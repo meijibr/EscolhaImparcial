@@ -1,100 +1,102 @@
 <resources>
-    <string name="app_name">RandomChoice</string>
+    <string name="app_name">Choix Aléatoire</string>
     <string name="inicial">Click on the button below to make a choice!</string>
+    <string-array name="not_family">
+        <item>"Celui (celle) qui a perdu sa virginité le plus âgé."</item>
+        <item>"Celui (celle) qui a perdu sa virginité le plus jeune"</item>
+        <item>"Celui (celle) qui avait le plus récemment une gueule de bois"</item>
+    </string-array>
     <string-array name="criteria">
-        <item>"A pessoa mais alta - en"</item>
-        <item>"A pessoa mais baixa - en"</item>
-        <item>"A pessoa mais gorda - en"</item>
-        <item>"A pessoa mais magra - en"</item>
-        <item>"A pessoa mais velha - en"</item>
-        <item>"A pessoa mais nova - en"</item>
-        <item>"A pessoa com os dentes mais afiados - en"</item>
-        <item>"A pessoa com o cabelo mais comprida - en"</item>
-        <item>"A pessoa careca - en"</item>
-        <item>"A pessoa com as unhas mais compridas - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa vermelha - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa preta - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa verde - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa azul - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa amarela - en"</item>
-        <item>"Quem tem mais dinheiro na carteira - en"</item>
-        <item>"Quem tem menos dinheiro na carteira - en"</item>
-        <item>"O(A) dono(a) da casa - en"</item>
-        <item>"Quem usa óculos com maior grau - en"</item>
-        <item>"Quem mais reprovou na escola/faculdade (finais e conselho são desempates) - en"</item>
-        <item>"Quem mais recentemente andou de trem - en"</item>
-        <item>"Quem mais recentemente andou de avião - en"</item>
-        <item>"Quem mais recentemente andou de barco - en"</item>
-        <item>"Quem é casado a mais tempo - en"</item>
-        <item>"Quem é casado a menos tempo - en"</item>
-        <item>"Quem está encalhado a mais tempo - en"</item>
-        <item>"Quem perdeu a virgindade mais velho - en"</item>
-        <item>"Quem perdeu a virgindade mais novo - en"</item>
-        <item>"Quem fala mais idiomas - en"</item>
-        <item>"Quem tem o maior celular - en"</item>
-        <item>"Quem tem o menor celular - en"</item>
-        <item>"Quem tem o celular mais velho - en"</item>
-        <item>"Quem baixou esse app - en"</item>
-        <item>"Quem mais recentemente encheu a cara - en"</item>
-        <item>"Quem mais recentemente foi à praia - en"</item>
-        <item>"Quem mais recentemente se submeteu a uma cirurgia - en"</item>
-        <item>"Quem trabalha a mais tempo no mesmo lugar - en"</item>
-        <item>"Quem faz aniversário no dia 1 - en"</item>
-        <item>"Quem faz aniversário no dia 2 - en"</item>
-        <item>"Quem faz aniversário no dia 3 - en"</item>
-        <item>"Quem faz aniversário no dia 4 - en"</item>
-        <item>"Quem faz aniversário no dia 5 - en"</item>
-        <item>"Quem faz aniversário no dia 6 - en"</item>
-        <item>"Quem faz aniversário no dia 7 - en"</item>
-        <item>"Quem faz aniversário no dia 8 - en"</item>
-        <item>"Quem faz aniversário no dia 9 - en"</item>
-        <item>"Quem faz aniversário no dia 10 - en"</item>
-        <item>"Quem faz aniversário no dia 11 - en"</item>
-        <item>"Quem faz aniversário no dia 12 - en"</item>
-        <item>"Quem faz aniversário no dia 13 - en"</item>
-        <item>"Quem faz aniversário no dia 14 - en"</item>
-        <item>"Quem faz aniversário no dia 15 - en"</item>
-        <item>"Quem faz aniversário no dia 16 - en"</item>
-        <item>"Quem faz aniversário no dia 17 - en"</item>
-        <item>"Quem faz aniversário no dia 18 - en"</item>
-        <item>"Quem faz aniversário no dia 19 - en"</item>
-        <item>"Quem faz aniversário no dia 20 - en"</item>
-        <item>"Quem faz aniversário no dia 21 - en"</item>
-        <item>"Quem faz aniversário no dia 22 - en"</item>
-        <item>"Quem faz aniversário no dia 23 - en"</item>
-        <item>"Quem faz aniversário no dia 24 - en"</item>
-        <item>"Quem faz aniversário no dia 25 - en"</item>
-        <item>"Quem faz aniversário no dia 26 - en"</item>
-        <item>"Quem faz aniversário no dia 27 - en"</item>
-        <item>"Quem faz aniversário no dia 28 - en"</item>
-        <item>"Quem faz aniversário no dia 29 - en"</item>
-        <item>"Quem faz aniversário no dia 30 - en"</item>
-        <item>"Quem faz aniversário no dia 31 - en"</item>
-        <item>"Quem faz aniversário em Janeiro - en"</item>
-        <item>"Quem faz aniversário em Fevereiro - en"</item>
-        <item>"Quem faz aniversário em Março - en"</item>
-        <item>"Quem faz aniversário em Abril - en"</item>
-        <item>"Quem faz aniversário em Maio - en"</item>
-        <item>"Quem faz aniversário em Junho - en"</item>
-        <item>"Quem faz aniversário em Julho - en"</item>
-        <item>"Quem faz aniversário em Agosto - en"</item>
-        <item>"Quem faz aniversário em Setembro - en"</item>
-        <item>"Quem faz aniversário em Outubro - en"</item>
-        <item>"Quem faz aniversário em Novembro - en"</item>
-        <item>"Quem faz aniversário em Dezembro - en"</item>
-        <item>"Quem tem a maior barba - en"</item>
-        <item>"Quem tem o maior pé - en"</item>
-        <item>"Quem tem o menor pé - en"</item>
-        <item>"Número do telefone terminado em 0 - en"</item>
-        <item>"Número do telefone terminado em 1 - en"</item>
-        <item>"Número do telefone terminado em 2 - en"</item>
-        <item>"Número do telefone terminado em 3 - en"</item>
-        <item>"Número do telefone terminado em 4 - en"</item>
-        <item>"Número do telefone terminado em 5 - en"</item>
-        <item>"Número do telefone terminado em 6 - en"</item>
-        <item>"Número do telefone terminado em 7 - en"</item>
-        <item>"Número do telefone terminado em 8 - en"</item>
-        <item>"Número do telefone terminado em 9 - en"</item>
+        <item>"La personne la plus grande"</item>
+        <item>"La personne la plus courte"</item>
+        <item>"La personne la plus grosse"</item>
+        <item>"La personne la plus mince"</item>
+        <item>"La personne la plus vieille"</item>
+        <item>"La personne la plus jeune"</item>
+        <item>"La personne avec les dents les plus nettes"</item>
+        <item>"La personne avec les plus longs cheveux"</item>
+        <item>"Le(a) chauve"</item>
+        <item>"La personne avec les plus longs ongles"</item>
+        <item>"Celui (celle) qui porte une chemise / blouse rouge"</item>
+        <item>"Celui (celle) qui porte chemise / blouse noire"</item>
+        <item>"Celui (celle) qui porte chemise / blouse verte"</item>
+        <item>"Celui (celle) qui porte chemise / blouse bleue"</item>
+        <item>"Celui (celle) qui porte chemise / blouse jaune"</item>
+        <item>"Celui (celle) avec plus d'argent dans le portefeuille"</item>
+        <item>"Celui (celle) avec moins d'argent dans le portefeuille"</item>
+        <item>"Le (la) propriétaire de la maison"</item>
+        <item>"Celui (celle) qui a la myopie"</item>
+        <item>"Celui (celle) qui a l’hypermétropie"</item>
+        <item>"Celui (celle) qui a astigmatisme"</item>
+        <item>"Celui (celle) qui a échoué plus de fois à l'école"</item>
+        <item>"Celui (celle) qui le plus récemment a pris un train"</item>
+        <item>"Celui (celle) qui le plus récemment à pris un avion"</item>
+        <item>"Celui (celle) qui le plus récemment a pris un bateau"</item>
+        <item>"Celui (celle) qui est marié depuis le plus longtemps"</item>
+        <item>"Celui (celle) qui est marié depuis moins de temps"</item>
+        <item>"Celui (celle) qui est célibataire depuis le plus longtemps"</item>
+        <item>"Celui (celle) qui parle plusieurs langues"</item>
+        <item>"Celui (celle) qui a le plus grand téléphone"</item>
+        <item>"Celui (celle) qui a le plus petit téléphone"</item>
+        <item>"Celui (celle) qui a le plus ancien téléphone"</item>
+        <item>"Celui (celle) qui a téléchargé cette application"</item>
+        <item>"Celui (celle) qui est allé le plus récemment à la plage"</item>
+        <item>"Celui (celle) qui a le plus récemment subi une intervention chirurgicale"</item>
+        <item>"Celui (celle) qui travaille le plus longtemps dans la même entreprise."</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 1er jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 2e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 3e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 4eme jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 5e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 6e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 7e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 8e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 9e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 10e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 11e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 12e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 13e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 14e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 15e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 16e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 17e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 18e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 19e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 20e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 21e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 22e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 23e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 24e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 25e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 26e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 27e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 28e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 29e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 30e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 31e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en janvier"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en février"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en mars"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en avril"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en mai"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en janvier juin"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en juillet"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en août"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en septembre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en octobre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en novembre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en décembre"</item>
+        <item>"Celui (celle) qui a la plus longue barbe"</item>
+        <item>"Celui (celle) qui a le plus grand pied"</item>
+        <item>"Celui (celle) qui a le plus petit pied"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 0"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 1"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 2"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 3"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 4"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 5"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 6"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 7"</item>
     </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
