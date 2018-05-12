@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Escolha Imparcial</string>
-    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
+    <string name="menu_ajuda">Ajuda</string>
+    <string name="menu_familia">Modo Família</string>
+    <string name="help">Toque uma carta para revelar o critério de escolha. \nSe não for suficiente toque novamente para outro critério.  \nAtive o modo família para critérios mais inocentes.</string>
     <string name="language">Idioma</string>
     <string name="inicial">Clique no botão abaixo para fazer uma escolha!</string>
     <string-array name="not_family">

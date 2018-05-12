@@ -1,6 +1,7 @@
 package fnj.com.br.escolhaimparcial;
 
 import android.content.res.Resources;
+import android.graphics.drawable.Drawable;
 import android.media.Image;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -41,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -79,24 +81,29 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
+        String pathName;
 
-        if(item.isChecked())
+        if(item.isChecked()) {
             item.setChecked(false);
-        else
+            rerollButtonImg.setImageResource(R.drawable.verso_vermelho);
+            pathName = "/drawable/frente_vermelho.png";
+            criterioButtonTextView.setBackgroundResource(R.drawable.frente_vermelho);
+        }
+        else {
+            rerollButtonImg.setImageResource(R.drawable.verso_azul);
+            pathName = "/drawable/frente_azul.png";
+            criterioButtonTextView.setBackgroundResource(R.drawable.frente_azul);
+            // rerollButtonImg.setBackground(getResources().getDrawable(R.drawable.verso_azul, this.getTheme()));
             item.setChecked(true);
+        }
 
         switch (id) {
             case R.id.family:
                 not_family = !not_family;
                 //rerollButtonImg = (ImageButton) findViewById(R.id.rerollButtonImg);
-                if (not_family) {
-                    rerollButtonImg.setBackground(getResources().getDrawable(R.drawable.verso_vermelho, this.getTheme()));
-                } else {
-                    rerollButtonImg.setBackground(getResources().getDrawable(R.drawable.verso_azul, this.getTheme()));
-                }
+                break;
             case R.id.help:
                 Toast.makeText(getApplicationContext(), getResources().getText(R.string.help),Toast.LENGTH_LONG).show();
-
                 break;
             default:
                 break;

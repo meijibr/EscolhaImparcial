@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Choix Aléatoire</string>
-    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
-    <string name="language">Langage</string>
+    <string name="menu_ajuda">Aide</string>
+    <string name="menu_familia">Mode Familial</string>
+    <string name="help">Appuyez sur la carte pour révéler un critère. \nSi cela ne suffit pas, appuyez à nouveau sur. \nVérifiez le mode familial pour les critères naïfs.</string>
+    <string name="language">Langue</string>
     <string name="inicial">Click on the button below to make a choice!</string>
     <string-array name="not_family">
         <item>"Celui (celle) qui a perdu sa virginité le plus âgé."</item>

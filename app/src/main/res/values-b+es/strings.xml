@@ -1,104 +1,105 @@
 <resources>
-    <string name="app_name">RandomChoice</string>
-    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
-    <string name="language">Idioma</string>
+    <string name="app_name">Random Choice</string>
+    <string name="menu_ajuda">Help</string>
+    <string name="menu_familia">Family Mode</string>
+    <string name="help">Tap the card to reveal one criteria. \nIf not enough, tap again.  \nCheck the family mode for naive criterias.</string>
+    <string name="language">Language</string>
     <string name="inicial">Click on the button below to make a choice!</string>
     <string-array name="not_family">
-        <item>"Quem perdeu a virgindade mais velho - en"</item>
-        <item>"Quem perdeu a virgindade mais novo - en"</item>
-        <item>"Quem mais recentemente encheu a cara - en"</item>
+        <item>"The one that lost the virginity at the oldest age"</item>
+        <item>"The one that lost the virginity at the youngest age"</item>
+        <item>"The one that most recently had a hangover"</item>
     </string-array>
     <string-array name="criteria">
-        <item>"A pessoa mais alta - en"</item>
-        <item>"A pessoa mais baixa - en"</item>
-        <item>"A pessoa mais gorda - en"</item>
-        <item>"A pessoa mais magra - en"</item>
-        <item>"A pessoa mais velha - en"</item>
-        <item>"A pessoa mais nova - en"</item>
-        <item>"A pessoa com os dentes mais afiados - en"</item>
-        <item>"A pessoa com o cabelo mais comprida - en"</item>
-        <item>"A pessoa careca - en"</item>
-        <item>"A pessoa com as unhas mais compridas - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa vermelha - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa preta - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa verde - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa azul - en"</item>
-        <item>"Quem está de camisa/camiseta/blusa amarela - en"</item>
-        <item>"Quem tem mais dinheiro na carteira - en"</item>
-        <item>"Quem tem menos dinheiro na carteira - en"</item>
-        <item>"O(A) dono(a) da casa - en"</item>
-        <item>"Quem usa óculos com maior grau - en"</item>
-        <item>"Quem mais reprovou na escola/faculdade (finais e conselho são desempates) - en"</item>
-        <item>"Quem mais recentemente andou de trem - en"</item>
-        <item>"Quem mais recentemente andou de avião - en"</item>
-        <item>"Quem mais recentemente andou de barco - en"</item>
-        <item>"Quem é casado a mais tempo - en"</item>
-        <item>"Quem é casado a menos tempo - en"</item>
-        <item>"Quem está encalhado a mais tempo - en"</item>
-        <item>"Quem fala mais idiomas - en"</item>
-        <item>"Quem tem o maior celular - en"</item>
-        <item>"Quem tem o menor celular - en"</item>
-        <item>"Quem tem o celular mais velho - en"</item>
-        <item>"Quem baixou esse app - en"</item>
-        <item>"Quem mais recentemente foi à praia - en"</item>
-        <item>"Quem mais recentemente se submeteu a uma cirurgia - en"</item>
-        <item>"Quem trabalha a mais tempo no mesmo lugar - en"</item>
-        <item>"Quem faz aniversário no dia 1 - en"</item>
-        <item>"Quem faz aniversário no dia 2 - en"</item>
-        <item>"Quem faz aniversário no dia 3 - en"</item>
-        <item>"Quem faz aniversário no dia 4 - en"</item>
-        <item>"Quem faz aniversário no dia 5 - en"</item>
-        <item>"Quem faz aniversário no dia 6 - en"</item>
-        <item>"Quem faz aniversário no dia 7 - en"</item>
-        <item>"Quem faz aniversário no dia 8 - en"</item>
-        <item>"Quem faz aniversário no dia 9 - en"</item>
-        <item>"Quem faz aniversário no dia 10 - en"</item>
-        <item>"Quem faz aniversário no dia 11 - en"</item>
-        <item>"Quem faz aniversário no dia 12 - en"</item>
-        <item>"Quem faz aniversário no dia 13 - en"</item>
-        <item>"Quem faz aniversário no dia 14 - en"</item>
-        <item>"Quem faz aniversário no dia 15 - en"</item>
-        <item>"Quem faz aniversário no dia 16 - en"</item>
-        <item>"Quem faz aniversário no dia 17 - en"</item>
-        <item>"Quem faz aniversário no dia 18 - en"</item>
-        <item>"Quem faz aniversário no dia 19 - en"</item>
-        <item>"Quem faz aniversário no dia 20 - en"</item>
-        <item>"Quem faz aniversário no dia 21 - en"</item>
-        <item>"Quem faz aniversário no dia 22 - en"</item>
-        <item>"Quem faz aniversário no dia 23 - en"</item>
-        <item>"Quem faz aniversário no dia 24 - en"</item>
-        <item>"Quem faz aniversário no dia 25 - en"</item>
-        <item>"Quem faz aniversário no dia 26 - en"</item>
-        <item>"Quem faz aniversário no dia 27 - en"</item>
-        <item>"Quem faz aniversário no dia 28 - en"</item>
-        <item>"Quem faz aniversário no dia 29 - en"</item>
-        <item>"Quem faz aniversário no dia 30 - en"</item>
-        <item>"Quem faz aniversário no dia 31 - en"</item>
-        <item>"Quem faz aniversário em Janeiro - en"</item>
-        <item>"Quem faz aniversário em Fevereiro - en"</item>
-        <item>"Quem faz aniversário em Março - en"</item>
-        <item>"Quem faz aniversário em Abril - en"</item>
-        <item>"Quem faz aniversário em Maio - en"</item>
-        <item>"Quem faz aniversário em Junho - en"</item>
-        <item>"Quem faz aniversário em Julho - en"</item>
-        <item>"Quem faz aniversário em Agosto - en"</item>
-        <item>"Quem faz aniversário em Setembro - en"</item>
-        <item>"Quem faz aniversário em Outubro - en"</item>
-        <item>"Quem faz aniversário em Novembro - en"</item>
-        <item>"Quem faz aniversário em Dezembro - en"</item>
-        <item>"Quem tem a maior barba - en"</item>
-        <item>"Quem tem o maior pé - en"</item>
-        <item>"Quem tem o menor pé - en"</item>
-        <item>"Número do telefone terminado em 0 - en"</item>
-        <item>"Número do telefone terminado em 1 - en"</item>
-        <item>"Número do telefone terminado em 2 - en"</item>
-        <item>"Número do telefone terminado em 3 - en"</item>
-        <item>"Número do telefone terminado em 4 - en"</item>
-        <item>"Número do telefone terminado em 5 - en"</item>
-        <item>"Número do telefone terminado em 6 - en"</item>
-        <item>"Número do telefone terminado em 7 - en"</item>
-        <item>"Número do telefone terminado em 8 - en"</item>
-        <item>"Número do telefone terminado em 9 - en"</item>
-    </string-array>
+        <item>"The tallest"</item>
+        <item>"The shortest"</item>
+        <item>"The fattest"</item>
+        <item>"The skinniest"</item>
+        <item>"The older"</item>
+        <item>"The younger"</item>
+        <item>"The one with sharpest teeth"</item>
+        <item>"The one with longest hair"</item>
+        <item>"The bald one"</item>
+        <item>"The one with longest finger nail"</item>
+        <item>"The one wearing red shirt/blouse"</item>
+        <item>"The one wearing black shirt/blouse"</item>
+        <item>"The one wearing green shirt/blouse"</item>
+        <item>"The one wearing blue shirt/blouse"</item>
+        <item>"The one wearing yellow shirt/blouse"</item>
+        <item>"The one with more money in the wallet"</item>
+        <item>"The one with less money in the wallet"</item>
+        <item>"The owner of the house"</item>
+        <item>"The one with myopia (higher degree wins)"</item>
+        <item>"The one with hypermetropia (higher degree wins)"</item>
+        <item>"The one with astigmatism (higher degree wins)"</item>
+        <item>"The one that failed most time in school/college"</item>
+        <item>"The one that most recently ride a train"</item>
+        <item>"The one that most recently ride a plane"</item>
+        <item>"The one that most recently ride a boat"</item>
+        <item>"The one is married for the longest time"</item>
+        <item>"The one is married for the shortest time"</item>
+        <item>"The one that is single for the longest time"</item>
+        <item>"The one that speaks more languages"</item>
+        <item>"The one with the biggest cell phone"</item>
+        <item>"The one with the smallest cell phone"</item>
+        <item>"The one with the oldest cell phone"</item>
+        <item>"The one who downloaded this app"</item>
+        <item>"The one that most recently went to the beach"</item>
+        <item>"The one that most recently had a cirurgy"</item>
+        <item>"The one that is working for the longest time in the same place"</item>
+        <item>"The one with birthday on the 1st of the month"</item>
+        <item>"The one with birthday on the 2nd of the month"</item>
+        <item>"The one with birthday on the 3rd of the month"</item>
+        <item>"The one with birthday on the 4th of the month"</item>
+        <item>"The one with birthday on the 5th of the month"</item>
+        <item>"The one with birthday on the 6th of the month"</item>
+        <item>"The one with birthday on the 7th of the month"</item>
+        <item>"The one with birthday on the 8th of the month"</item>
+        <item>"The one with birthday on the 9th of the month"</item>
+        <item>"The one with birthday on the 10th of the month"</item>
+        <item>"The one with birthday on the 11th of the month"</item>
+        <item>"The one with birthday on the 12th of the month"</item>
+        <item>"The one with birthday on the 13th of the month"</item>
+        <item>"The one with birthday on the 14th of the month"</item>
+        <item>"The one with birthday on the 15th of the month"</item>
+        <item>"The one with birthday on the 16th of the month"</item>
+        <item>"The one with birthday on the 17th of the month"</item>
+        <item>"The one with birthday on the 18th of the month"</item>
+        <item>"The one with birthday on the 19th of the month"</item>
+        <item>"The one with birthday on the 20th of the month"</item>
+        <item>"The one with birthday on the 21st of the month"</item>
+        <item>"The one with birthday on the 22nd of the month"</item>
+        <item>"The one with birthday on the 23rd of the month"</item>
+        <item>"The one with birthday on the 24th of the month"</item>
+        <item>"The one with birthday on the 25th of the month"</item>
+        <item>"The one with birthday on the 26th of the month"</item>
+        <item>"The one with birthday on the 27th of the month"</item>
+        <item>"The one with birthday on the 28th of the month"</item>
+        <item>"The one with birthday on the 29th of the month"</item>
+        <item>"The one with birthday on the 30th of the month"</item>
+        <item>"The one with birthday on the 31st of the month"</item>
+        <item>"The one with birthday on January"</item>
+        <item>"The one with birthday on February"</item>
+        <item>"The one with birthday on March"</item>
+        <item>"The one with birthday on April"</item>
+        <item>"The one with birthday on May"</item>
+        <item>"The one with birthday on June"</item>
+        <item>"The one with birthday on July"</item>
+        <item>"The one with birthday on August"</item>
+        <item>"The one with birthday on September"</item>
+        <item>"The one with birthday on October"</item>
+        <item>"The one with birthday on November"</item>
+        <item>"The one with birthday on December"</item>
+        <item>"The one with the longest beard"</item>
+        <item>"The one with the biggest foot"</item>
+        <item>"The one with the smallest foot"</item>
+        <item>"The one with phone number ending in 0"</item>
+        <item>"The one with phone number ending in 1"</item>
+        <item>"The one with phone number ending in 2"</item>
+        <item>"The one with phone number ending in 3"</item>
+        <item>"The one with phone number ending in 4"</item>
+        <item>"The one with phone number ending in 5"</item>
+        <item>"The one with phone number ending in 6"</item>
+        <item>"The one with phone number ending in 7"</item>    </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>

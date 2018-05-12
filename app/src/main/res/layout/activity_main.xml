@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#743274"
+    android:background="#ffffff"
     tools:context="fnj.com.br.escolhaimparcial.MainActivity"
     tools:layout_editor_absoluteY="25dp">
 
@@ -44,7 +44,7 @@
                 android:gravity="center"
                 android:textColor="#000000"
                 android:textSize="24sp"
-                android:background="@drawable/frente"/>
+                android:background="@drawable/frente_vermelho"/>
         </LinearLayout>
 
         <LinearLayout
@@ -55,7 +55,7 @@
                 android:id="@+id/rerollButtonImg"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                ads:srcCompat="@drawable/verso_vermelho" />
+                    ads:srcCompat="@drawable/verso_vermelho" />
         </LinearLayout>
 
     </com.wajahatkarim3.easyflipview.EasyFlipView>

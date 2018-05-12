@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Random Choice</string>
-    <string name="help">Essa é a mensagem de aujda, clique para sair</string>
+    <string name="menu_ajuda">Help</string>
+    <string name="menu_familia">Family Mode</string>
+    <string name="help">Tap the card to reveal one criteria. \nIf not enough, tap again.  \nCheck the family mode for naive criterias.</string>
     <string name="language">Language</string>
     <string name="inicial">Click on the button below to make a choice!</string>
     <string-array name="not_family">
