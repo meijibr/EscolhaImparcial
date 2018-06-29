@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Random Choice</string>
     <string name="menu_ajuda">Help</string>
+    <string name="menu_creditos">Credits</string>
+    <string name="creditos">Icon made by <a href="http://game-icons.net/faithtoken/originals/card-random.html">Faithtoken</a> under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> with no changes.</string>
     <string name="menu_familia">Family Mode</string>
     <string name="help">Tap the card to reveal one criteria. \nIf not enough, tap again.  \nCheck the family mode for naive criterias.</string>
     <string name="language">Language</string>
@@ -101,5 +103,5 @@
         <item>"The one with phone number ending in 5"</item>
         <item>"The one with phone number ending in 6"</item>
         <item>"The one with phone number ending in 7"</item>    </string-array>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>

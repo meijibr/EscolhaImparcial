@@ -14,4 +14,9 @@
         android:enabled="true"
         android:title="@string/menu_familia"
         android:visible="true" />
+    <item
+        android:id="@+id/creditos"
+        android:enabled="true"
+        android:title="@string/menu_creditos"
+        android:visible="true" />
 </menu>

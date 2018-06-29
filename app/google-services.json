@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:176798197681:android:97ea1a25d960c838",
         "android_client_info": {
-          "package_name": "fnj.com.br.escolhaimparcial"
+          "package_name": "just.com.br.escolhaimparcial"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "176798197681-u33go6qkl64a4b8q8g8e0djf3pbvv946.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "fnj.com.br.escolhaimparcial",
+            "package_name": "just.com.br.escolhaimparcial",
             "certificate_hash": "207db428021123e1077cafa2e8ac63613b5a39fa"
           }
         },

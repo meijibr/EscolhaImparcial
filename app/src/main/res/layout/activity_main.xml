@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#ffffff"
-    tools:context="fnj.com.br.escolhaimparcial.MainActivity"
+    tools:context="just.com.br.escolhaimparcial.MainActivity"
     tools:layout_editor_absoluteY="25dp">
 
     <com.google.android.gms.ads.AdView

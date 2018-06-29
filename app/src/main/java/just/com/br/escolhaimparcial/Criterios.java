@@ -1,6 +1,4 @@
-package fnj.com.br.escolhaimparcial;
-
-import android.content.res.Resources;
+package just.com.br.escolhaimparcial;
 
 import java.util.ArrayList;
 import java.util.Collections;

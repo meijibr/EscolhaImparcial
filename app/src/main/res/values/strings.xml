@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Escolha Imparcial</string>
     <string name="menu_ajuda">Ajuda</string>
+    <string name="menu_creditos">Créditos</string>
+    <string name="creditos">Icone feito por <a href="http://game-icons.net/faithtoken/originals/card-random.html">Faithtoken</a> sob <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> sem alterações.</string>
     <string name="menu_familia">Modo Família</string>
     <string name="help">Toque uma carta para revelar o critério de escolha. \nSe não for suficiente toque novamente para outro critério.  \nAtive o modo família para critérios mais inocentes.</string>
     <string name="language">Idioma</string>
@@ -9,6 +11,14 @@
         <item>"Quem perdeu a virgindade mais velho"</item>
         <item>"Quem perdeu a virgindade mais novo"</item>
         <item>"Quem mais recentemente encheu a cara"</item>
+        <item>"Quem mais recentemente se envolveu em uma briga"</item>
+        <item>"Quem mais recentemente perdeu em um racha"</item>
+        <item>"Quem mais recentemente ganhou em um racha"</item>
+        <item>"Quem mais recentemente participou de um ménage"</item>
+        <item>"Quem mais recentemente participou de uma orgia"</item>
+        <item>"Quem mais recentemente participou de um swing"</item>
+        <item>"Quem mais recentemente pagou por sexo"</item>
+        <item>"Quem está a mais tempo sem sexo"</item>
     </string-array>
     <string-array name="criteria">
         <item>"A pessoa mais alta"</item>
@@ -18,7 +28,7 @@
         <item>"A pessoa mais velha"</item>
         <item>"A pessoa mais nova"</item>
         <item>"A pessoa com os dentes mais afiados"</item>
-        <item>"A pessoa com o cabelo mais comprida"</item>
+        <item>"A pessoa com o cabelo mais comprido"</item>
         <item>"A pessoa careca"</item>
         <item>"A pessoa com as unhas mais compridas"</item>
         <item>"Quem está de camisa/camiseta/blusa vermelha"</item>
@@ -101,6 +111,60 @@
         <item>"Número do telefone terminado em 7"</item>
         <item>"Número do telefone terminado em 8"</item>
         <item>"Número do telefone terminado em 9"</item>
+        <item>"Quem é do signo de Aquário"</item>
+        <item>"Quem é do signo de Capricórnio"</item>
+        <item>"Quem é do signo de Câncer"</item>
+        <item>"Quem é do signo de Gêmeos"</item>
+        <item>"Quem é do signo de Libra"</item>
+        <item>"Quem é do signo de Escorpião"</item>
+        <item>"Quem é do signo de Sagitário"</item>
+        <item>"Quem é do signo de Leão"</item>
+        <item>"Quem é do signo de Peixes"</item>
+        <item>"Quem é do signo de Áries"</item>
+        <item>"Quem é do signo de Touro"</item>
+        <item>"Quem é do signo de Virgem"</item>
+        <item>"Quem tem o grito mais assustador"</item>
+        <item>"Quem mais recentemente fez uma viagem internacional"</item>
+        <item>"Quem mais recentemente cavou um buraco no jardim"</item>
+        <item>"Quem tem um irmão(ã) gêmeo(a)"</item>
+        <item>"Quem tem mais irmãos(ãs)"</item>
+        <item>"Quem andou a cavalo mais recentemente"</item>
+        <item>"Quem mais recentemente levou um tiro"</item>
+        <item>"Quem mais recentemente foi atropelado"</item>
+        <item>"Quem falara "Céééérebros" da maneira mais zumbi possível"</item>
+        <item>"Quem tem a orelha mais pontuda"</item>
+        <item>"Quem nasceu mais ao Norte"</item>
+        <item>"Quem nasceu mais ao Sul"</item>
+        <item>"Quem nasceu mais ao Leste"</item>
+        <item>"Quem nasceu mais ao Oeste"</item>
+        <item>"Quem mais recentemente plantou algo"</item>
+        <item>"Quem teve o pior dia"</item>
+        <item>"Quem teve a pior semana"</item>
+        <item>"Quem teve o pior mês"</item>
+        <item>"Quem mais recentemente se envolveu em um acidente de trânsito"</item>
+        <item>"Quem tem ou teve o emprego mais exótico"</item>
+        <item>"Quem mais recentemente extraiu DNA de um mosquito em âmbar"</item>
+        <item>"Quem tem o carro mais velho"</item>
+        <item>"Quem tem a maior coleção de HQs"</item>
+        <item>"Quem já foi administrador de um canal de IRC"</item>
+        <item>"Quem tem o menor número de ICQ (UIN)"</item>
+        <item>"Quem torce para o time de futebol que está a mais tempo sem um título"</item>
+        <item>"Quem mais recentemente foi sequestrado"</item>
+        <item>"Quem mais recentemente foi refém num assalto"</item>
+        <item>"Quem mais recentemente falou com uma pessoa famosa"</item>
+        <item>"Quem vendeu bitcoins pelo menor preço"</item>
+        <item>"Quem comprou bitcoins pelo maior preço"</item>
+        <item>"Quem mais recentemente teve o nariz quebrado"</item>
+        <item>"Quem mais recentemente entrou de penetra numa festa"</item>
+        <item>"Quem mais recentemente marcou um gol em uma partida de futebol"</item>
+        <item>"Quem mais recentemente ficou preso em um elevador"</item>
+        <item>"Quem fizer mais flexões"</item>
+        <item>"Quem comprou bitcoins pelo menor preço"</item>
+        <item>"Quem vendeu bitcoins pelo maior preço"</item>
+        <item>"Quem já ganhou na loteria"</item>
+        <item>"Quem tem a moeda de menor valor na carteira/bolsa"</item>
+        <item>"Quem tem a nota de maior valor na carteira/bolsa"</item>
+        <item>"Quem tem a maior televisão (Polegadas)"</item>
     </string-array>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>

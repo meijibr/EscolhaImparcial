@@ -1,4 +1,4 @@
-package fnj.com.br.escolhaimparcial;
+package just.com.br.escolhaimparcial;
 
 import org.junit.Test;
 

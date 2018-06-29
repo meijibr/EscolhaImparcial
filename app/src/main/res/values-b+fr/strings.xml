@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Choix Aléatoire</string>
     <string name="menu_ajuda">Aide</string>
+    <string name="menu_creditos">Crédits</string>
+    <string name="creditos">Icône faite par <a href="http://game-icons.net/faithtoken/originals/card-random.html">Faithtoken</a> sous <a href="https://creativecommons.org/licenses/by/3.0/">CC par 3.0</a> sans modifications.</string>
     <string name="menu_familia">Mode Familial</string>
     <string name="help">Appuyez sur la carte pour révéler un critère. \nSi cela ne suffit pas, appuyez à nouveau sur. \nVérifiez le mode familial pour les critères naïfs.</string>
     <string name="language">Langue</string>
@@ -102,5 +104,5 @@
         <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 6"</item>
         <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 7"</item>
     </string-array>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>
