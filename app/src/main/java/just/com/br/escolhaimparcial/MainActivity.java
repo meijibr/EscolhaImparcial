@@ -65,6 +65,24 @@ public class    MainActivity extends AppCompatActivity {
         for(String s: criteriosString) {
             criterios.addCriterioNotFamily((s));
         }
+
+        criteriosString = res.getStringArray(R.array.dia_aniversario);
+        for(String s: criteriosString) {
+            criterios.addCriterioDiaAniversaio((s));
+        }
+        criteriosString = res.getStringArray(R.array.mes_aniversario);
+        for(String s: criteriosString) {
+            criterios.addCriterioMesAniversaio((s));
+        }
+        criteriosString = res.getStringArray(R.array.telefone);
+        for(String s: criteriosString) {
+            criterios.addCriterioTelefone((s));
+        }
+        criteriosString = res.getStringArray(R.array.signo);
+        for(String s: criteriosString) {
+            criterios.addCriterioSigno((s));
+        }
+
         criterioButtonTextView = (TextView) findViewById(R.id.criterioButtonTextView);
 
         flipView = (EasyFlipView) findViewById(R.id.easyFlipView);
@@ -73,10 +91,44 @@ public class    MainActivity extends AppCompatActivity {
         rerollButtonImg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (not_family)
-                    criterioButtonTextView.setText(criterios.getCriterioNotFamily());
-                else
-                    criterioButtonTextView.setText(criterios.getCriterio());
+                if (not_family) {
+                    String tmp = criterios.getCriterioNotFamily();
+                    switch (tmp) {
+                        case "1":
+                            criterioButtonTextView.setText(criterios.getCriterioDiaAniversario());
+                            break;
+                        case "2":
+                            criterioButtonTextView.setText(criterios.getCriterioMesAniversario());
+                            break;
+                        case "3":
+                            criterioButtonTextView.setText(criterios.getCriterioTelefone());
+                            break;
+                        case "4":
+                            criterioButtonTextView.setText(criterios.getCriterioSigno());
+                            break;
+                        default:
+                            criterioButtonTextView.setText(tmp);
+                    }
+                }
+                else {
+                    String tmp = criterios.getCriterio();
+                    switch (tmp) {
+                        case "1":
+                            criterioButtonTextView.setText(criterios.getCriterioDiaAniversario());
+                            break;
+                        case "2":
+                            criterioButtonTextView.setText(criterios.getCriterioMesAniversario());
+                            break;
+                        case "3":
+                            criterioButtonTextView.setText(criterios.getCriterioTelefone());
+                            break;
+                        case "4":
+                            criterioButtonTextView.setText(criterios.getCriterioSigno());
+                            break;
+                        default:
+                            criterioButtonTextView.setText(tmp);
+                    }
+                }
                 flipView.flipTheView();
             }
         });

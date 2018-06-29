@@ -12,7 +12,81 @@
         <item>"Celui (celle) qui a perdu sa virginité le plus jeune"</item>
         <item>"Celui (celle) qui avait le plus récemment une gueule de bois"</item>
     </string-array>
+    <string-array name="telefone">
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 0"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 1"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 2"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 3"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 4"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 5"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 6"</item>
+        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 7"</item>
+    </string-array>
+    <string-array name="mes_aniversario">
+        <item>"Celui (celle) qui célèbre son anniversaire en janvier"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en février"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en mars"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en avril"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en mai"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en janvier juin"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en juillet"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en août"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en septembre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en octobre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en novembre"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire en décembre"</item>
+    </string-array>
+    <string-array name="dia_aniversario">
+        <item>"Celui (celle) qui célèbre son anniversaire le 1er jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 2e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 3e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 4eme jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 5e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 6e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 7e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 8e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 9e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 10e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 11e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 12e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 13e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 14e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 15e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 16e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 17e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 18e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 19e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 20e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 21e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 22e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 23e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 24e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 25e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 26e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 27e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 28e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 29e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 30e jour du mois"</item>
+        <item>"Celui (celle) qui célèbre son anniversaire le 31e jour du mois"</item>
+    </string-array>
+    <string-array name="signo">
+        <item>"Quem é do signo de Aquário"</item>
+        <item>"Quem é do signo de Capricórnio"</item>
+        <item>"Quem é do signo de Câncer"</item>
+        <item>"Quem é do signo de Gêmeos"</item>
+        <item>"Quem é do signo de Libra"</item>
+        <item>"Quem é do signo de Escorpião"</item>
+        <item>"Quem é do signo de Sagitário"</item>
+        <item>"Quem é do signo de Leão"</item>
+        <item>"Quem é do signo de Peixes"</item>
+        <item>"Quem é do signo de Áries"</item>
+        <item>"Quem é do signo de Touro"</item>
+        <item>"Quem é do signo de Virgem"</item>
+    </string-array>
     <string-array name="criteria">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
         <item>"La personne la plus grande"</item>
         <item>"La personne la plus courte"</item>
         <item>"La personne la plus grosse"</item>
@@ -49,60 +123,9 @@
         <item>"Celui (celle) qui est allé le plus récemment à la plage"</item>
         <item>"Celui (celle) qui a le plus récemment subi une intervention chirurgicale"</item>
         <item>"Celui (celle) qui travaille le plus longtemps dans la même entreprise."</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 1er jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 2e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 3e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 4eme jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 5e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 6e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 7e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 8e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 9e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 10e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 11e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 12e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 13e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 14e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 15e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 16e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 17e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 18e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 19e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 20e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 21e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 22e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 23e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 24e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 25e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 26e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 27e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 28e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 29e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 30e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire le 31e jour du mois"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en janvier"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en février"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en mars"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en avril"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en mai"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en janvier juin"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en juillet"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en août"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en septembre"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en octobre"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en novembre"</item>
-        <item>"Celui (celle) qui célèbre son anniversaire en décembre"</item>
         <item>"Celui (celle) qui a la plus longue barbe"</item>
         <item>"Celui (celle) qui a le plus grand pied"</item>
         <item>"Celui (celle) qui a le plus petit pied"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 0"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 1"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 2"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 3"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 4"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 5"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 6"</item>
-        <item>"Celui (celle) qui détient le numéro de téléphone se terminant par 7"</item>
     </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>

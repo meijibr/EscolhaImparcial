@@ -12,7 +12,81 @@
         <item>"The one that lost the virginity at the youngest age"</item>
         <item>"The one that most recently had a hangover"</item>
     </string-array>
+    <string-array name="telefone">
+        <item>"The one with phone number ending in 0"</item>
+        <item>"The one with phone number ending in 1"</item>
+        <item>"The one with phone number ending in 2"</item>
+        <item>"The one with phone number ending in 3"</item>
+        <item>"The one with phone number ending in 4"</item>
+        <item>"The one with phone number ending in 5"</item>
+        <item>"The one with phone number ending in 6"</item>
+        <item>"The one with phone number ending in 7"</item>
+    </string-array>
+    <string-array name="mes_aniversario">
+        <item>"The one with birthday on January"</item>
+        <item>"The one with birthday on February"</item>
+        <item>"The one with birthday on March"</item>
+        <item>"The one with birthday on April"</item>
+        <item>"The one with birthday on May"</item>
+        <item>"The one with birthday on June"</item>
+        <item>"The one with birthday on July"</item>
+        <item>"The one with birthday on August"</item>
+        <item>"The one with birthday on September"</item>
+        <item>"The one with birthday on October"</item>
+        <item>"The one with birthday on November"</item>
+        <item>"The one with birthday on December"</item>
+    </string-array>
+    <string-array name="dia_aniversario">
+        <item>"The one with birthday on the 1st of the month"</item>
+        <item>"The one with birthday on the 2nd of the month"</item>
+        <item>"The one with birthday on the 3rd of the month"</item>
+        <item>"The one with birthday on the 4th of the month"</item>
+        <item>"The one with birthday on the 5th of the month"</item>
+        <item>"The one with birthday on the 6th of the month"</item>
+        <item>"The one with birthday on the 7th of the month"</item>
+        <item>"The one with birthday on the 8th of the month"</item>
+        <item>"The one with birthday on the 9th of the month"</item>
+        <item>"The one with birthday on the 10th of the month"</item>
+        <item>"The one with birthday on the 11th of the month"</item>
+        <item>"The one with birthday on the 12th of the month"</item>
+        <item>"The one with birthday on the 13th of the month"</item>
+        <item>"The one with birthday on the 14th of the month"</item>
+        <item>"The one with birthday on the 15th of the month"</item>
+        <item>"The one with birthday on the 16th of the month"</item>
+        <item>"The one with birthday on the 17th of the month"</item>
+        <item>"The one with birthday on the 18th of the month"</item>
+        <item>"The one with birthday on the 19th of the month"</item>
+        <item>"The one with birthday on the 20th of the month"</item>
+        <item>"The one with birthday on the 21st of the month"</item>
+        <item>"The one with birthday on the 22nd of the month"</item>
+        <item>"The one with birthday on the 23rd of the month"</item>
+        <item>"The one with birthday on the 24th of the month"</item>
+        <item>"The one with birthday on the 25th of the month"</item>
+        <item>"The one with birthday on the 26th of the month"</item>
+        <item>"The one with birthday on the 27th of the month"</item>
+        <item>"The one with birthday on the 28th of the month"</item>
+        <item>"The one with birthday on the 29th of the month"</item>
+        <item>"The one with birthday on the 30th of the month"</item>
+        <item>"The one with birthday on the 31st of the month"</item>
+    </string-array>
+    <string-array name="signo">
+        <item>"Quem é do signo de Aquário"</item>
+        <item>"Quem é do signo de Capricórnio"</item>
+        <item>"Quem é do signo de Câncer"</item>
+        <item>"Quem é do signo de Gêmeos"</item>
+        <item>"Quem é do signo de Libra"</item>
+        <item>"Quem é do signo de Escorpião"</item>
+        <item>"Quem é do signo de Sagitário"</item>
+        <item>"Quem é do signo de Leão"</item>
+        <item>"Quem é do signo de Peixes"</item>
+        <item>"Quem é do signo de Áries"</item>
+        <item>"Quem é do signo de Touro"</item>
+        <item>"Quem é do signo de Virgem"</item>
+    </string-array>
     <string-array name="criteria">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
         <item>"The tallest"</item>
         <item>"The shortest"</item>
         <item>"The fattest"</item>
@@ -49,59 +123,9 @@
         <item>"The one that most recently went to the beach"</item>
         <item>"The one that most recently had a cirurgy"</item>
         <item>"The one that is working for the longest time in the same place"</item>
-        <item>"The one with birthday on the 1st of the month"</item>
-        <item>"The one with birthday on the 2nd of the month"</item>
-        <item>"The one with birthday on the 3rd of the month"</item>
-        <item>"The one with birthday on the 4th of the month"</item>
-        <item>"The one with birthday on the 5th of the month"</item>
-        <item>"The one with birthday on the 6th of the month"</item>
-        <item>"The one with birthday on the 7th of the month"</item>
-        <item>"The one with birthday on the 8th of the month"</item>
-        <item>"The one with birthday on the 9th of the month"</item>
-        <item>"The one with birthday on the 10th of the month"</item>
-        <item>"The one with birthday on the 11th of the month"</item>
-        <item>"The one with birthday on the 12th of the month"</item>
-        <item>"The one with birthday on the 13th of the month"</item>
-        <item>"The one with birthday on the 14th of the month"</item>
-        <item>"The one with birthday on the 15th of the month"</item>
-        <item>"The one with birthday on the 16th of the month"</item>
-        <item>"The one with birthday on the 17th of the month"</item>
-        <item>"The one with birthday on the 18th of the month"</item>
-        <item>"The one with birthday on the 19th of the month"</item>
-        <item>"The one with birthday on the 20th of the month"</item>
-        <item>"The one with birthday on the 21st of the month"</item>
-        <item>"The one with birthday on the 22nd of the month"</item>
-        <item>"The one with birthday on the 23rd of the month"</item>
-        <item>"The one with birthday on the 24th of the month"</item>
-        <item>"The one with birthday on the 25th of the month"</item>
-        <item>"The one with birthday on the 26th of the month"</item>
-        <item>"The one with birthday on the 27th of the month"</item>
-        <item>"The one with birthday on the 28th of the month"</item>
-        <item>"The one with birthday on the 29th of the month"</item>
-        <item>"The one with birthday on the 30th of the month"</item>
-        <item>"The one with birthday on the 31st of the month"</item>
-        <item>"The one with birthday on January"</item>
-        <item>"The one with birthday on February"</item>
-        <item>"The one with birthday on March"</item>
-        <item>"The one with birthday on April"</item>
-        <item>"The one with birthday on May"</item>
-        <item>"The one with birthday on June"</item>
-        <item>"The one with birthday on July"</item>
-        <item>"The one with birthday on August"</item>
-        <item>"The one with birthday on September"</item>
-        <item>"The one with birthday on October"</item>
-        <item>"The one with birthday on November"</item>
-        <item>"The one with birthday on December"</item>
         <item>"The one with the longest beard"</item>
         <item>"The one with the biggest foot"</item>
         <item>"The one with the smallest foot"</item>
-        <item>"The one with phone number ending in 0"</item>
-        <item>"The one with phone number ending in 1"</item>
-        <item>"The one with phone number ending in 2"</item>
-        <item>"The one with phone number ending in 3"</item>
-        <item>"The one with phone number ending in 4"</item>
-        <item>"The one with phone number ending in 5"</item>
-        <item>"The one with phone number ending in 6"</item>
-        <item>"The one with phone number ending in 7"</item>    </string-array>
+    </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>

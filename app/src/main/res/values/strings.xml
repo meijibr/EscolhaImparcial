@@ -21,6 +21,10 @@
         <item>"Quem está a mais tempo sem sexo"</item>
     </string-array>
     <string-array name="criteria">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
         <item>"A pessoa mais alta"</item>
         <item>"A pessoa mais baixa"</item>
         <item>"A pessoa mais gorda"</item>
@@ -55,74 +59,9 @@
         <item>"Quem mais recentemente foi à praia"</item>
         <item>"Quem mais recentemente se submeteu a uma cirurgia"</item>
         <item>"Quem trabalha a mais tempo no mesmo lugar"</item>
-        <item>"Quem faz aniversário no dia 1"</item>
-        <item>"Quem faz aniversário no dia 2"</item>
-        <item>"Quem faz aniversário no dia 3"</item>
-        <item>"Quem faz aniversário no dia 4"</item>
-        <item>"Quem faz aniversário no dia 5"</item>
-        <item>"Quem faz aniversário no dia 6"</item>
-        <item>"Quem faz aniversário no dia 7"</item>
-        <item>"Quem faz aniversário no dia 8"</item>
-        <item>"Quem faz aniversário no dia 9"</item>
-        <item>"Quem faz aniversário no dia 10"</item>
-        <item>"Quem faz aniversário no dia 11"</item>
-        <item>"Quem faz aniversário no dia 12"</item>
-        <item>"Quem faz aniversário no dia 13"</item>
-        <item>"Quem faz aniversário no dia 14"</item>
-        <item>"Quem faz aniversário no dia 15"</item>
-        <item>"Quem faz aniversário no dia 16"</item>
-        <item>"Quem faz aniversário no dia 17"</item>
-        <item>"Quem faz aniversário no dia 18"</item>
-        <item>"Quem faz aniversário no dia 19"</item>
-        <item>"Quem faz aniversário no dia 20"</item>
-        <item>"Quem faz aniversário no dia 21"</item>
-        <item>"Quem faz aniversário no dia 22"</item>
-        <item>"Quem faz aniversário no dia 23"</item>
-        <item>"Quem faz aniversário no dia 24"</item>
-        <item>"Quem faz aniversário no dia 25"</item>
-        <item>"Quem faz aniversário no dia 26"</item>
-        <item>"Quem faz aniversário no dia 27"</item>
-        <item>"Quem faz aniversário no dia 28"</item>
-        <item>"Quem faz aniversário no dia 29"</item>
-        <item>"Quem faz aniversário no dia 30"</item>
-        <item>"Quem faz aniversário no dia 31"</item>
-        <item>"Quem faz aniversário em Janeiro"</item>
-        <item>"Quem faz aniversário em Fevereiro"</item>
-        <item>"Quem faz aniversário em Março"</item>
-        <item>"Quem faz aniversário em Abril"</item>
-        <item>"Quem faz aniversário em Maio"</item>
-        <item>"Quem faz aniversário em Junho"</item>
-        <item>"Quem faz aniversário em Julho"</item>
-        <item>"Quem faz aniversário em Agosto"</item>
-        <item>"Quem faz aniversário em Setembro"</item>
-        <item>"Quem faz aniversário em Outubro"</item>
-        <item>"Quem faz aniversário em Novembro"</item>
-        <item>"Quem faz aniversário em Dezembro"</item>
         <item>"Quem tem a maior barba"</item>
         <item>"Quem tem o maior pé"</item>
         <item>"Quem tem o menor pé"</item>
-        <item>"Número do telefone terminado em 0"</item>
-        <item>"Número do telefone terminado em 1"</item>
-        <item>"Número do telefone terminado em 2"</item>
-        <item>"Número do telefone terminado em 3"</item>
-        <item>"Número do telefone terminado em 4"</item>
-        <item>"Número do telefone terminado em 5"</item>
-        <item>"Número do telefone terminado em 6"</item>
-        <item>"Número do telefone terminado em 7"</item>
-        <item>"Número do telefone terminado em 8"</item>
-        <item>"Número do telefone terminado em 9"</item>
-        <item>"Quem é do signo de Aquário"</item>
-        <item>"Quem é do signo de Capricórnio"</item>
-        <item>"Quem é do signo de Câncer"</item>
-        <item>"Quem é do signo de Gêmeos"</item>
-        <item>"Quem é do signo de Libra"</item>
-        <item>"Quem é do signo de Escorpião"</item>
-        <item>"Quem é do signo de Sagitário"</item>
-        <item>"Quem é do signo de Leão"</item>
-        <item>"Quem é do signo de Peixes"</item>
-        <item>"Quem é do signo de Áries"</item>
-        <item>"Quem é do signo de Touro"</item>
-        <item>"Quem é do signo de Virgem"</item>
         <item>"Quem tem o grito mais assustador"</item>
         <item>"Quem mais recentemente fez uma viagem internacional"</item>
         <item>"Quem mais recentemente cavou um buraco no jardim"</item>
@@ -131,7 +70,7 @@
         <item>"Quem andou a cavalo mais recentemente"</item>
         <item>"Quem mais recentemente levou um tiro"</item>
         <item>"Quem mais recentemente foi atropelado"</item>
-        <item>"Quem falara "Céééérebros" da maneira mais zumbi possível"</item>
+        <item>"Quem falar "Céééérebros" da maneira mais zumbi possível"</item>
         <item>"Quem tem a orelha mais pontuda"</item>
         <item>"Quem nasceu mais ao Norte"</item>
         <item>"Quem nasceu mais ao Sul"</item>
@@ -165,6 +104,88 @@
         <item>"Quem tem a moeda de menor valor na carteira/bolsa"</item>
         <item>"Quem tem a nota de maior valor na carteira/bolsa"</item>
         <item>"Quem tem a maior televisão (Polegadas)"</item>
+        <item>"Quem tem o maior título acadêmico"</item>
+        <item>"Quem tem mais amigos no facebook"</item>
+        <item>"Quem tem menos amigos no facebook"</item>
+        <item>"Quem tem mais seguidores no Instagram"</item>
+        <item>"Quem tem menos seguidos no Instagram"</item>
+        <item>"Quem mora mais longe"</item>
+        <item>"Quem mora mais perto"</item>
+        <item>"Quem morou mais longe"</item>
+        <item>"Quem mais recentemente deu PT em um carro"</item>
+    </string-array>
+    <string-array name="telefone">
+        <item>"Número do telefone terminado em 0"</item>
+        <item>"Número do telefone terminado em 1"</item>
+        <item>"Número do telefone terminado em 2"</item>
+        <item>"Número do telefone terminado em 3"</item>
+        <item>"Número do telefone terminado em 4"</item>
+        <item>"Número do telefone terminado em 5"</item>
+        <item>"Número do telefone terminado em 6"</item>
+        <item>"Número do telefone terminado em 7"</item>
+        <item>"Número do telefone terminado em 8"</item>
+        <item>"Número do telefone terminado em 9"</item>
+    </string-array>
+    <string-array name="signo">
+        <item>"Quem é do signo de Aquário"</item>
+        <item>"Quem é do signo de Capricórnio"</item>
+        <item>"Quem é do signo de Câncer"</item>
+        <item>"Quem é do signo de Gêmeos"</item>
+        <item>"Quem é do signo de Libra"</item>
+        <item>"Quem é do signo de Escorpião"</item>
+        <item>"Quem é do signo de Sagitário"</item>
+        <item>"Quem é do signo de Leão"</item>
+        <item>"Quem é do signo de Peixes"</item>
+        <item>"Quem é do signo de Áries"</item>
+        <item>"Quem é do signo de Touro"</item>
+        <item>"Quem é do signo de Virgem"</item>
+    </string-array>
+    <string-array name="mes_aniversario">
+        <item>"Quem faz aniversário em Janeiro"</item>
+        <item>"Quem faz aniversário em Fevereiro"</item>
+        <item>"Quem faz aniversário em Março"</item>
+        <item>"Quem faz aniversário em Abril"</item>
+        <item>"Quem faz aniversário em Maio"</item>
+        <item>"Quem faz aniversário em Junho"</item>
+        <item>"Quem faz aniversário em Julho"</item>
+        <item>"Quem faz aniversário em Agosto"</item>
+        <item>"Quem faz aniversário em Setembro"</item>
+        <item>"Quem faz aniversário em Outubro"</item>
+        <item>"Quem faz aniversário em Novembro"</item>
+        <item>"Quem faz aniversário em Dezembro"</item>
+    </string-array>
+    <string-array name="dia_aniversario">
+        <item>"Quem faz aniversário no dia 1"</item>
+        <item>"Quem faz aniversário no dia 2"</item>
+        <item>"Quem faz aniversário no dia 3"</item>
+        <item>"Quem faz aniversário no dia 4"</item>
+        <item>"Quem faz aniversário no dia 5"</item>
+        <item>"Quem faz aniversário no dia 6"</item>
+        <item>"Quem faz aniversário no dia 7"</item>
+        <item>"Quem faz aniversário no dia 8"</item>
+        <item>"Quem faz aniversário no dia 9"</item>
+        <item>"Quem faz aniversário no dia 10"</item>
+        <item>"Quem faz aniversário no dia 11"</item>
+        <item>"Quem faz aniversário no dia 12"</item>
+        <item>"Quem faz aniversário no dia 13"</item>
+        <item>"Quem faz aniversário no dia 14"</item>
+        <item>"Quem faz aniversário no dia 15"</item>
+        <item>"Quem faz aniversário no dia 16"</item>
+        <item>"Quem faz aniversário no dia 17"</item>
+        <item>"Quem faz aniversário no dia 18"</item>
+        <item>"Quem faz aniversário no dia 19"</item>
+        <item>"Quem faz aniversário no dia 20"</item>
+        <item>"Quem faz aniversário no dia 21"</item>
+        <item>"Quem faz aniversário no dia 22"</item>
+        <item>"Quem faz aniversário no dia 23"</item>
+        <item>"Quem faz aniversário no dia 24"</item>
+        <item>"Quem faz aniversário no dia 25"</item>
+        <item>"Quem faz aniversário no dia 26"</item>
+        <item>"Quem faz aniversário no dia 27"</item>
+        <item>"Quem faz aniversário no dia 28"</item>
+        <item>"Quem faz aniversário no dia 29"</item>
+        <item>"Quem faz aniversário no dia 30"</item>
+        <item>"Quem faz aniversário no dia 31"</item>
     </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>
