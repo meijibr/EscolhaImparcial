@@ -7,10 +7,35 @@
     <string name="help">Tap the card to reveal one criteria. \nIf not enough, tap again.  \nCheck the family mode for naive criterias.</string>
     <string name="language">Language</string>
     <string name="inicial">Click on the button below to make a choice!</string>
+    <string name="dica_inicial">You are using the full mode. To play with kids, your parents or your boss we recommend activating the family mode.</string>
     <string-array name="not_family">
         <item>"The one that lost the virginity at the oldest age"</item>
         <item>"The one that lost the virginity at the youngest age"</item>
         <item>"The one that most recently had a hangover"</item>
+        <item>"Who most recently get into a fight"</item>
+        <item>"Who most recently lost a street race"</item>
+        <item>"Who most recently won a street race"</item>
+        <item>"Who has already participated in a threesome"</item>
+        <item>"Who has already participated in an orgy"</item>
+        <item>"Who has already participated in a swing"</item>
+        <item>"Who most recently paid for sex"</item>
+        <item>"Who is the most time without sex"</item>
+        <item>"Who has already been throw out of a bar"</item>
+        <item>"Who most recently sent a text message to an ex bring drunk"</item>
+        <item>"Who has already sent nudes"</item>
+        <item>"Who has already missed work for drinking too much in the previous night"</item>
+        <item>"Who has already done or received a lap dance"</item>
+        <item>"Who has already been handcuffed"</item>
+        <item>"Who has already called the wrong name during sex"</item>
+        <item>"Who has already jerked off at open air"</item>
+        <item>"Who has already shown off at the webcam"</item>
+        <item>"Who has already done sex in the parents bed"</item>
+        <item>"Who has already swan naked"</item>
+        <item>"Who has already done unprotected sex and thought had got some STD"</item>
+        <item>"Who has already sent a sex text message to the wrong number"</item>
+        <item>"Who has already cried after sex"</item>
+        <item>"Who has already received nudes"</item>
+        <item>"Who french kissed most people in the same day"</item>
     </string-array>
     <string-array name="telefone">
         <item>"The one with phone number ending in 0"</item>
@@ -21,6 +46,8 @@
         <item>"The one with phone number ending in 5"</item>
         <item>"The one with phone number ending in 6"</item>
         <item>"The one with phone number ending in 7"</item>
+        <item>"The one with phone number ending in 8"</item>
+        <item>"The one with phone number ending in 9"</item>
     </string-array>
     <string-array name="mes_aniversario">
         <item>"The one with birthday on January"</item>
@@ -70,18 +97,18 @@
         <item>"The one with birthday on the 31st of the month"</item>
     </string-array>
     <string-array name="signo">
-        <item>"Quem é do signo de Aquário"</item>
-        <item>"Quem é do signo de Capricórnio"</item>
-        <item>"Quem é do signo de Câncer"</item>
-        <item>"Quem é do signo de Gêmeos"</item>
-        <item>"Quem é do signo de Libra"</item>
-        <item>"Quem é do signo de Escorpião"</item>
-        <item>"Quem é do signo de Sagitário"</item>
-        <item>"Quem é do signo de Leão"</item>
-        <item>"Quem é do signo de Peixes"</item>
-        <item>"Quem é do signo de Áries"</item>
-        <item>"Quem é do signo de Touro"</item>
-        <item>"Quem é do signo de Virgem"</item>
+        <item>"The one born under Aquarius Zodiac Sign"</item>
+        <item>"The one born under Capricorn Zodiac Sign"</item>
+        <item>"The one born under Cancer Zodiac Sign"</item>
+        <item>"The one born under Gemini Zodiac Sign"</item>
+        <item>"The one born under Libra Zodiac Sign"</item>
+        <item>"The one born under Scorpio Zodiac Sign"</item>
+        <item>"The one born under Sagittarius Zodiac Sign"</item>
+        <item>"The one born under Leo Zodiac Sign"</item>
+        <item>"The one born under Pisces Sign"</item>
+        <item>"The one born under Aries Zodiac Sign"</item>
+        <item>"The one born under Taurus Zodiac Sign"</item>
+        <item>"The one born under Virgo Zodiac Sign"</item>
     </string-array>
     <string-array name="criteria">
         <item>"1"</item>
@@ -126,6 +153,80 @@
         <item>"The one with the longest beard"</item>
         <item>"The one with the biggest foot"</item>
         <item>"The one with the smallest foot"</item>
+        <item>"The one born under Aquarius Zodiac Sign"</item>
+        <item>"The one born under Capricorn Zodiac Sign"</item>
+        <item>"The one born under Cancer Zodiac Sign"</item>
+        <item>"The one born under Gemini Zodiac Sign"</item>
+        <item>"The one born under Libra Zodiac Sign"</item>
+        <item>"The one born under Scorpio Zodiac Sign"</item>
+        <item>"The one born under Sagittarius Zodiac Sign"</item>
+        <item>"The one born under Leo Zodiac Sign"</item>
+        <item>"The one born under Pisces Sign"</item>
+        <item>"The one born under Aries Zodiac Sign"</item>
+        <item>"The one born under Taurus Zodiac Sign"</item>
+        <item>"The one born under Virgo Zodiac Sign"</item>
+        <item>"Who has the scarriest scream"</item>
+        <item>"Who most recently took an international trip"</item>
+        <item>"Who most recently dug a hole in the garden"</item>
+        <item>"Who has a twin brother/sister"</item>
+        <item>"Who has more siblings"</item>
+        <item>"The one that most recently ride a horde"</item>
+        <item>"The one that most recently was shot"</item>
+        <item>"The one that most recently was ran over"</item>
+        <item>"Who speak "Braaaiiinnnns" the most zombie way"</item>
+        <item>"Who has the sharpeast ear"</item>
+        <item>"Who was born most to the North"</item>
+        <item>"Who was born most to the South"</item>
+        <item>"Who was born most to the East"</item>
+        <item>"Who was born most to the West"</item>
+        <item>"Who most recently planted something"</item>
+        <item>"Who had the worst day"</item>
+        <item>"Who had the worst week"</item>
+        <item>"Who had the worst month"</item>
+        <item>"Who most recentyl was involved in a traffic accident"</item>
+        <item>"Who has or had the most exotic job"</item>
+        <item>"Who most recently extracted DNA from a mosquito in amber"</item>
+        <item>"Who has the oldest car"</item>
+        <item>"Who has the biggest comic books collection"</item>
+        <item>"Who was an administrator of an IRC channel"</item>
+        <item>"Who has the smallest ICQ number (UIN)"</item>
+        <item>"Who cheers for a sports team that ?/"</item>
+        <item>"The one that most recently was kidnapped"</item>
+        <item>"The one that most recently was made hostage in a robbery"</item>
+        <item>"The one that most recently spoke to a famous person"</item>
+        <item>"The one that sold bitcoins for the lowest price"</item>
+        <item>"The one that bought bitcoins for the highest price"</item>
+        <item>"The one that most recently had a broken nose"</item>
+        <item>"The one that most recently crashed into a party"</item>
+        <item>"The one that most recently scored in a soccer game"</item>
+        <item>"The one that most recently was stucked in an elevator"</item>
+        <item>"The one that bought bitcoins for the lowest price"</item>
+        <item>"The one that sold bitcoins for the highest price"</item>
+        <item>"Who has already won in the lottery"</item>
+        <item>"Who has the coin of least value in the wallet/purse"</item>
+        <item>"Who has the bill of greatest value in the wallet/purse"</item>
+        <item>"Who has the biggest TV (inches)"</item>
+        <item>"Who has the highest academic title"</item>
+        <item>"Who has more friends on facebook"</item>
+        <item>"Who has less friends on facebook"</item>
+        <item>"Who has more followers on Instagram"</item>
+        <item>"Who has less followers on Instagram"</item>
+        <item>"Who lives further"</item>
+        <item>"Who lives closer"</item>
+        <item>"Who has lived the farest"</item>
+        <item>"The one that most recently completely destroyed a car"</item>
+        <item>"The one that most recently slept in the cinema"</item>
+        <item>"The one that most recently cried in the cinema"</item>
+        <item>"Who has already fell for being staring at the Cell Phone"</item>
+        <item>"The one that most recently was caught cheating in school"</item>
+        <item>"Who has already said "I love you" and didn't mean it"</item>
+        <item>"Who has spent most time awake"</item>
+        <item>"Who has done the greatest movie or tv series marathon"</item>
+        <item>"Who has spent most time without taking a shower"</item>
+        <item>"The one that most recently fainted"</item>
+        <item>"Who has more Tatoos and piercings"</item>
+        <item>"Who has a fake profile in Facebook"</item>
+        <item>"Who has more pets"</item>
     </string-array>
     <string name="banner_ad_unit_id">ca-app-pub-8482517945581520/2858131317</string>
 </resources>

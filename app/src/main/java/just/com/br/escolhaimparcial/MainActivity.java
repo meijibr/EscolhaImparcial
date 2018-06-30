@@ -88,6 +88,11 @@ public class    MainActivity extends AppCompatActivity {
         flipView = (EasyFlipView) findViewById(R.id.easyFlipView);
         rerollButtonImg = (ImageButton) findViewById(R.id.rerollButtonImg);
 
+        if (not_family)
+            Toast.makeText(getApplicationContext(), getResources().getText(R.string.dica_inicial),Toast.LENGTH_LONG).show();
+
+
+
         rerollButtonImg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

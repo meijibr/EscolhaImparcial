@@ -5,6 +5,7 @@
     <string name="creditos">Icone feito por <a href="http://game-icons.net/faithtoken/originals/card-random.html">Faithtoken</a> sob <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> sem alterações.</string>
     <string name="menu_familia">Modo Família</string>
     <string name="help">Toque uma carta para revelar o critério de escolha. \nSe não for suficiente toque novamente para outro critério.  \nAtive o modo família para critérios mais inocentes.</string>
+    <string name="dica_inicial">Você está no modo completo, para usar no trabalho, com crianças ou com seus pais, recomendamos ativar o modo família.</string>
     <string name="language">Idioma</string>
     <string name="inicial">Clique no botão abaixo para fazer uma escolha!</string>
     <string-array name="not_family">
@@ -19,6 +20,24 @@
         <item>"Quem mais recentemente participou de um swing"</item>
         <item>"Quem mais recentemente pagou por sexo"</item>
         <item>"Quem está a mais tempo sem sexo"</item>
+        <item>"Quem já foi expulso de um bar"</item>
+        <item>"Quem mais recentemente mandou mensagem bêbado para o(a) ex"</item>
+        <item>"Quem já mandou nudes"</item>
+        <item>"Quem já faltou ao trabalho por ter bebido demais na noite anterior"</item>
+        <item>"Quem já fez ou recebeu uma lap dance"</item>
+        <item>"Quem já foi algemado"</item>
+        <item>"Quem já chamou o nome errado durante o sexo"</item>
+        <item>"Quem já ficou com algum parente"</item>
+        <item>"Quem ficou com alguém com a maior diferença de idade (para mais ou menos)"</item>
+        <item>"Quem já se masturbou ao ar livre"</item>
+        <item>"Quem já se exibiu na webcam"</item>
+        <item>"Quem já fez sexo na cama dos pais"</item>
+        <item>"Quem já nadou sem nenhuma peça de roupa"</item>
+        <item>"Quem já fez sexo desprotegido e pensou ter pego alguma DST"</item>
+        <item>"Quem já enviou uma mensagem com conotação sexual para o número errado"</item>
+        <item>"Quem já chorou depois do sexo"</item>
+        <item>"Quem já recebeu nudes"</item>
+        <item>"Quem beijou (beijo de língua) mais pessoas no mesmo dia"</item>
     </string-array>
     <string-array name="criteria">
         <item>"1"</item>
@@ -113,6 +132,20 @@
         <item>"Quem mora mais perto"</item>
         <item>"Quem morou mais longe"</item>
         <item>"Quem mais recentemente deu PT em um carro"</item>
+        <item>"Quem mais recentemente dormiu no cinema"</item>
+        <item>"Quem mais recentemente chorou no cinema"</item>
+        <item>"Quem já caiu por estar olhando o celular"</item>
+        <item>"Quem mais recentemente ficou segurando vela"</item>
+        <item>"Quem já foi pego colando na escola"</item>
+        <item>"Quem mais recentemente saltou de bungee jumping"</item>
+        <item>"Quem já disse a alguém "Eu te amo" sem sentir de verdade"</item>
+        <item>"Quem ficou mais tempo sem dormir"</item>
+        <item>"Quem fez a maior maratona de séries ou filmes sem parar para dormir"</item>
+        <item>"Quem ficou mais tempo sem tomar banho"</item>
+        <item>"Quem mais recentemente desmaiou"</item>
+        <item>"Quem tem o maior número de tatuagens e piercings"</item>
+        <item>"Quem tem perfil fake em redes sociais"</item>
+        <item>"Quem tem mais animais de estimação"</item>
     </string-array>
     <string-array name="telefone">
         <item>"Número do telefone terminado em 0"</item>
