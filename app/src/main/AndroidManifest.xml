@@ -9,8 +9,8 @@
         android:roundIcon="@drawable/card_random"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
-        android:versionCode="3"
-        android:versionName="1.02">
+        android:versionCode="4"
+        android:versionName="1.03">
         <activity android:name="just.com.br.escolhaimparcial.MainActivity"
             android:theme="@style/AppTheme.BrandedLaunch"
             android:screenOrientation="portrait"
